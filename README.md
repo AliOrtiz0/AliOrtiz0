@@ -84,9 +84,10 @@
       <p>Git/GitHub</p>
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/354202/azure-icon.svg" alt="Azure DevOps" width="48" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="48" height="48" />
       <p>Azure DevOps</p>
     </td>
+
     <td align="center" width="96">
       <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="GitLab CI" width="48" height="48" />
       <p>GitLab CI</p>
